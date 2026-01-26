@@ -5,6 +5,14 @@ const designs = [
     tags: ["Logo", "Branding", "Canva"],
     image: "/img/logojoaomecanico.png",
   },
+
+  {
+    title: "Perfrumaria da Maria",
+    desc: "Logo e identidade visual para Perfumaria da Maria.",
+    tags: ["Logo", "Branding", "Canva"],
+    image: "/img/logomariaperfume.png",
+  },
+
 ];
 
 export default function ProjectsDesign() {
