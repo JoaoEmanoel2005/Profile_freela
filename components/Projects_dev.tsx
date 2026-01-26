@@ -6,6 +6,13 @@ const projects_dev = [
     live: "",
     repo: "https://github.com/JoaoEmanoel2005/StudyConnect"
   },
+  {
+    title: "Conversor de Moedas",
+    desc: "Conversor de moedas com API externa e interface responsiva.",
+    tech: ["Python", "Streamlit", "Pandas"],
+    live: "https://conversor-moeda.streamlit.app/",
+    repo: "https://github.com/JoaoEmanoel2005/conversor_moeda"
+  },
   
 ];
 
