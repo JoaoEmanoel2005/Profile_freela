@@ -4,6 +4,7 @@ import About from "@/components/About";
 import Projectsdev from "@/components/Projects_dev";
 import Contact from "@/components/Contact";
 import ProjectsDesign from "@/components/Design";   
+import Websites from "@/components/Website";
 
 
 export default function Home() {
@@ -12,8 +13,9 @@ return (
 <Header />
 <Hero />
 <About />
-<Projectsdev />
 <ProjectsDesign />
+<Websites />
+<Projectsdev />
 <Contact />
 </main>
 );
