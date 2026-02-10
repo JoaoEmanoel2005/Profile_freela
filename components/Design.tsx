@@ -13,6 +13,13 @@ const designs = [
     image: "/img/logomariaperfume.png",
   },
 
+   {
+    title: "Tinturaria AlchemHue",
+    desc: "Logo e identidade visual para Tinturaria AlchemHue.",
+    tags: ["Logo", "Branding", "Canva"],
+    image: "/img/AlchemHue.png",
+  },
+
 ];
 
 export default function ProjectsDesign() {
