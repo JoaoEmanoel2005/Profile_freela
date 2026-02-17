@@ -5,7 +5,6 @@ return (
 <h1 className="font-bold text-xl">João | Freelancer</h1>
 <div className="space-x-6 text-sm">
 <a href="#projects" className="hover:text-blue-500">Projetos</a>
-<a href="#contact" className="hover:text-blue-500">Contato</a>
 </div>
 </nav>
 </header>
