@@ -16,6 +16,7 @@ return (
 <ProjectsDesign />
 <Websites />
 <Projectsdev />
+<Contact />
 </main>
 );
 }
